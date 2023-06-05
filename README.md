@@ -3,13 +3,16 @@
 To develop a website to display the cover page design of a book
 
 ## Design Steps:
+### Step 1 : Clone the github repository and create a django admin interface
+### Step 2 :  Write HTML and CSS for designing book cover page and execute them .
+### Step 3 : Validate the HTML and CSS code.
+### Step 4 : Publish the website in the given URL.
 
-### Step 1:
-Write your own steps here.
-### Step 2:
 
 ## Code:
+
 ```
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -127,11 +130,15 @@ Write your own steps here.
 </html>
 ```
 
+
+
 ## Output:
-Include your output screenshot here
+
+
 ![Screenshot (42)](https://github.com/RANJEETH17/cover/assets/120718823/9ef1438c-006a-4ccf-b046-6909b2229a12)
 
 
 ## Result:
+
 a website to display the cover page design of a book is dveloped
 
